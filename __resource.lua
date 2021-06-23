@@ -1,0 +1,1 @@
+server_script "discord_chat.lua"
